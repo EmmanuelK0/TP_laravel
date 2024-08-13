@@ -85,16 +85,20 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ![Capture d'écran](path/to/your/screenshot.png)
 
-![Capture d'écran](public/screenshots/Capture%20d%27écran%202024-08-02%20235540.png)
+# Projet de TP
 
-![Capture d'écran](public/screenshots/Capture%20d%27écran%202024-08-02%202355605.png)
+## Capture d’écran des interfaces
 
-![Capture d'écran](public/screenshots/Capture%20d%27écran%202024-08-02%202355640.png)
+![Capture d'écran 1](public/screenshots/Capture%20d%27écran%202024-08-02%20235540.png)
 
-![Capture d'écran](public/screenshots/Capture%20d%27écran%202024-08-02%202355654.png)
+![Capture d'écran 2](public/screenshots/Capture%20d%27écran%202024-08-02%202355605.png)
 
-![Capture d'écran](public/screenshots/Capture%20d%27écran%202024-08-02%202355715.png)
+![Capture d'écran 3](public/screenshots/Capture%20d%27écran%202024-08-02%202355640.png)
 
-![Capture d'écran](public/screenshots/Capture%20d%27écran%202024-08-02%202355740.png)
+![Capture d'écran 4](public/screenshots/Capture%20d%27écran%202024-08-02%202355654.png)
 
-![Capture d'écran](public/screenshots/Capture%20d%27écran%202024-08-02%202355753.png)
+![Capture d'écran 5](public/screenshots/Capture%20d%27écran%202024-08-02%202355715.png)
+
+![Capture d'écran 6](public/screenshots/Capture%20d%27écran%202024-08-02%202355740.png)
+
+![Capture d'écran 7](public/screenshots/Capture%20d%27écran%202024-08-02%202355753.png)
