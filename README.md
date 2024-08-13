@@ -1,10 +1,22 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center">
+    <a href="https://laravel.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
+    </a>
+</p>
 
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+    <a href="https://github.com/laravel/framework/actions">
+        <img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status">
+    </a>
+    <a href="https://packagist.org/packages/laravel/framework">
+        <img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads">
+    </a>
+    <a href="https://packagist.org/packages/laravel/framework">
+        <img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version">
+    </a>
+    <a href="https://packagist.org/packages/laravel/framework">
+        <img src="https://img.shields.io/packagist/l/laravel/framework" alt="License">
+    </a>
 </p>
 
 ## About Laravel
@@ -64,3 +76,25 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+# Laravel_project
+
+## 6. Gestionnaire de projets
+
+## Capture d’écran des interfaces
+
+![Capture d'écran](path/to/your/screenshot.png)
+
+![Capture d'écran](public/screenshots/Capture%20d%27écran%202024-08-02%20235540.png)
+
+![Capture d'écran](public/screenshots/Capture%20d%27écran%202024-08-02%202355605.png)
+
+![Capture d'écran](public/screenshots/Capture%20d%27écran%202024-08-02%202355640.png)
+
+![Capture d'écran](public/screenshots/Capture%20d%27écran%202024-08-02%202355654.png)
+
+![Capture d'écran](public/screenshots/Capture%20d%27écran%202024-08-02%202355715.png)
+
+![Capture d'écran](public/screenshots/Capture%20d%27écran%202024-08-02%202355740.png)
+
+![Capture d'écran](public/screenshots/Capture%20d%27écran%202024-08-02%202355753.png)
